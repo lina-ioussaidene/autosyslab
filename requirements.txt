@@ -5,4 +5,5 @@ numpy
 matplotlib
 scipy
 plotly
-fpdfgit 
+fpdf2
+sympy
