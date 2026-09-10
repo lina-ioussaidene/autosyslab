@@ -4,3 +4,4 @@ google-genai
 numpy
 matplotlib
 scipy
+plotly
