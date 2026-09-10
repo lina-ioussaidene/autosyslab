@@ -1,0 +1,6 @@
+streamlit
+control
+google-genai
+numpy
+matplotlib
+scipy
